@@ -1,0 +1,13 @@
+room_id,hotel_id,room_type,price_per_night,availability
+301,201,Suite,2181,Yes
+302,201,Suite,7550,No
+303,201,Suite,3499,No
+304,202,Suite,4504,No
+305,202,Standard,2470,Yes
+306,202,Suite,5171,Yes
+307,203,Suite,2366,Yes
+308,203,Standard,3606,No
+309,203,Suite,4782,Yes
+310,204,Deluxe,2044,No
+311,204,Deluxe,2458,Yes
+312,204,Standard,7969,Yes
